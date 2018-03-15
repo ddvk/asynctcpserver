@@ -2,3 +2,4 @@
 - [ ] Server
 - [ ] make file
 - [ ] docker
+- [ ] CI
